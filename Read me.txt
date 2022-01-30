@@ -1,0 +1,9 @@
+How to install voice chat in TPC? (English)
+1. Uninstall old samp version install the given "sa-mp-0.3.7-install.exe" in your GTA folder.
+2. Install "vc_tpc.exe" in your GTA folder.
+3. Enjoy the voice chat.
+
+Paano install voice chat sa TPC? (Tagalog)
+1. Uninstall mo yong dating samp version at palitan mo ng nasa zip folder "sa-mp-0.3.7-install.exe" at ilagay mo sa GTA folder.
+2. Install mo yong "vc_tpc.exe" sa GTA folder mo.
+3. Ayan okay na happy chatting.
